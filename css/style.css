@@ -67,3 +67,10 @@ canvas {
     transform: scale(1);
   }
 }
+.huong-chanh{
+  color: wheat;
+  font-size: 60px;
+  position: relative;
+  top: -420px;
+  margin: 0px auto;
+}
