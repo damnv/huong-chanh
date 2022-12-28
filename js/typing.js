@@ -29,8 +29,6 @@ var typed = new Typed('.memory', {
     <br/>
     - Chiếc lắc tay đó rất đẹp, anh muốn dành nó cho em. Thời gian theo đuổi em cũng bằng giá trị của chiếc lắc tay nên anh thấy rất ý nghĩa đối với anh. 
     <br/>
-    <br/>
-    <br/>
     - Nhưng mà nó chỉ là dự định của anh và không thể thực hiện được đó. Trước giờ anh rất chiều em, nên anh luôn hỏi em trước và làm theo điều mà em thích. 
     <br/>
     - Đôi khi cứ để cho nó theo tự nhiên mà không cần suy nghĩ trước lại hay hơn. Hôm đó chúng ta có một buổi đi chơi rất vui vẻ bên nhau, anh không nghĩ đó là buổi đi chơi cuối cùng của chúng ta. 
@@ -49,7 +47,7 @@ var typed = new Typed('.memory', {
     /**
      * @property {number} typeSpeed type speed in milliseconds
      */
-    typeSpeed: 00,
+    typeSpeed: 100,
 
     /**
      * @property {number} startDelay time before typing starts in milliseconds
