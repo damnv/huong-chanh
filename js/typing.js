@@ -7,11 +7,10 @@ var typed = new Typed('.memory', {
     `
     - Đây là trái tim anh đã dành tặng cho em, lúc mà anh gửi cho em nhìn nó không được đẹp như bây giờ, anh đã cố gắng làm để nó trở nên đẹp nhất. Cũng giống như sự cố gắng trong tình yêu của anh dành cho em vậy.
     <br/>
-    - Khi mà trái tim anh dành cho em đã ngừng đập, cũng là lúc anh đã từ bỏ theo đuổi một người con gái mà anh yêu thương. 
     <br/>
-    - Em có biết anh tiếc nuối điều gì nhất không?                                                
+    - Em có biết anh tiếc nuối trong năm 2022 của anh điều gì nhất không?                                                
     <br/>
-    - Đó là anh không nói ra câu ' em có đồng ý làm người yêu anh không' trước mặt em.
+    - Đó là anh không nói ra câu "em đồng ý làm người yêu anh nhe" trước mặt em.
     <br/>
     - Em có biết ý nghĩa chiếc lắc tay mà anh đã tặng cho em không? 
     <br/>
@@ -25,21 +24,21 @@ var typed = new Typed('.memory', {
     <br/>
     - Dù kết quả của buổi hẹn hò thành công hay thất bại đi chăng nữa thì anh cũng muốn tặng chiếc lắc tay cho em. 
     <br/>
-    - Anh hy vọng mỗi khi em đeo chiếc lắc tay, thì em sẽ nhớ là trước đây có 1 người đã từng dành nhất nhiều tình cảm dành cho 1 cô gái. Và cô gái đó chính là em.
+    - Anh hy vọng mỗi khi em nhìn chiếc lắc tay, thì em sẽ nhớ là đã có 1 người đã từng dành nhất nhiều tình cảm dành cho 1 cô gái. Và cô gái đó chính là em.
     <br/>
     - Chiếc lắc tay đó rất đẹp, anh muốn dành nó cho em. Thời gian theo đuổi em cũng bằng giá trị của chiếc lắc tay nên anh thấy rất ý nghĩa đối với anh. 
     <br/>
     - Nhưng mà nó chỉ là dự định của anh và không thể thực hiện được đó. Trước giờ anh rất chiều em, nên anh luôn hỏi em trước và làm theo điều mà em thích. 
     <br/>
-    - Đôi khi cứ để cho nó theo tự nhiên mà không cần suy nghĩ trước lại hay hơn. Hôm đó chúng ta có một buổi đi chơi rất vui vẻ bên nhau, anh không nghĩ đó là buổi đi chơi cuối cùng của chúng ta. 
+    - Đôi khi cứ để cho nó theo tự nhiên mà không cần suy nghĩ trước lại hay hơn. Hôm đó chúng ta có một buổi đi chơi rất vui vẻ bên nhau và cũng là buổi cuối cùng của năm 2022 mà chúng ta đi chơi. 
     <br/>
-    - Anh mong rằng trong tương lai, sẽ có 1 người mang đến những nụ cười, hạnh phúc và đặc biệt có thể cho em cảm giác tin tưởng để em có thể chia sẻ suy nghĩ của em.  
+    - Anh mong rằng trong thời gian sắp tới hoặc trong tương lai xa, sẽ có 1 người mang đến những nụ cười, hạnh phúc và đặc biệt có thể cho em cảm giác tin tưởng để em có thể chia sẻ suy nghĩ của em.  
     <br/>
-    - Chứ không phải như anh, người là suốt ngày làm em phải suy nghĩ và cãi nhau, anh xin lỗi. 
+    - Xin lỗi vì anh đã không làm được như em mong muốn. Hy vọng sang năm 2023 chúng ta có thể cùng nhau cố gắng vun đắp mối quan hệ này trở nên tốt hơn hoặc là hãy để nó dừng lại ở năm 2022.
     <br/>
-    - Tất cả những điều anh nói bên trên là những lời anh muốn nói cho em. Khi viết đến dòng chữ này đang là 26/12/2022 3:54 sáng rồi, thứ 2 cuối cùng của năm 2022. 
+    - Tạm biệt ngày cuối cùng của năm 2022, Tạm biệt một năm không trọn vẹn.
     <br/><br/>
-    - Cảm ơn em đã ở bên anh trong thời gian vừa qua. <br/>
+    - Cảm ơn em đã ở bên anh trong năm 2022 vừa qua. Mong rằng năm 2023 sắp đến sẽ có những này tháng yên bình ..., chúng ta đều sẽ luôn hạnh phúc <br/>
     `    
      ],
     stringsElement: null,
