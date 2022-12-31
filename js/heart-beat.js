@@ -111,10 +111,6 @@ renderer.setAnimationLoop(() => {
         camera.updateProjectionMatrix();
         time += clock.getDelta();
     }
-   setTimeout(() => {
-    time = 0;
-    document.getElementById('icon').innerText = '💔'
-   }, 50000);
     // scene.rotation.y = time * 0.25;
     points.material.uniforms.time.value = time;
     renderer.render(scene, camera);
