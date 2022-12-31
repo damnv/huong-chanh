@@ -10,7 +10,8 @@ var typed = new Typed('.memory', {
     <br/>
     - Em có biết anh tiếc nuối trong năm 2022 của anh điều gì nhất không?                                                
     <br/>
-    - Đó là anh không nói ra câu "em đồng ý làm người yêu anh nhe" trước mặt em.
+    <br/>
+    - Đó là anh không nói ra câu "em đồng ý làm người yêu anh nhé" trước mặt em.
     <br/>
     - Em có biết ý nghĩa chiếc lắc tay mà anh đã tặng cho em không? 
     <br/>
